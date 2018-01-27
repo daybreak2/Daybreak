@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="E:/Spring/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/core-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/Jackson/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/Jackson/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/Jackson/jackson-core-2.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/Jackson/jackson-databind-2.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/Jackson/json_org.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/zxing-javase.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Spring/mysql-connector-java-5.1.10-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
